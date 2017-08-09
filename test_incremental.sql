@@ -1,5 +1,5 @@
 -- MySQL dump 10.16  Distrib 10.1.6-MariaDB, for Linux (x86_64)
---Leonardo Jerez
+--
 -- Host: localhost    Database: test
 -- ------------------------------------------------------
 -- Server version	10.1.6-MariaDB-log
